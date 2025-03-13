@@ -8,25 +8,26 @@
   <a href="https://www.linkedin.com/in/trangmtruong/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+    <a href="https://x.com/ttcodess" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
   <a href="https://www.youtube.com/@ttcodes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://x.com/ttcodess" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
+
 </div>
 
 ###
 
-<h1 align="center">Hello, my name is Trang</h1>
+<h1 align="center">Hi, I'm Trang 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  I'm a Full Stack Developer with a background in hospitality and beauty industry</h3>
+<h3 align="left">👩‍💻 A Full Stack Developer with a background in the hospitality and beauty industry</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as a Full Stack Developer<br>- 📚 I'm currently learning more about Jsvascript and backend development<br>- ⚡ In my free time, I enjoy listening to murder, personal growth or coding podcasts</p>
+<p align="left"> 🔭 I’m currenltly exploring opportunities as a Full Stack Developer<br> 🌱 ​I am continuously sharpening my skills in JavaScript and backend development<br> 📚 Ask me about the Game of Thrones and House of Dragon series<br> ⚡ ​In my free time, I enjoy listening to podcasts about true crime, personal development, and coding<br> 🗣️ Fun fact: English is my second language and my first was Vietnamese!<br> 📫 You can reach me at trangmtruong@icloud.com</p>
 
 
 ###
