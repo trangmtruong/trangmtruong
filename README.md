@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 A Full Stack Developer with a background in the hospitality and beauty industry</h3>
+<h3 align="left">👩‍💻 A Full Stack Software Engineer with a background in the hospitality and beauty industry</h3>
 
 ###
 
