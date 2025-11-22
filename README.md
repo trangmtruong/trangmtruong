@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Trang (or T)👋</h1>
+<h1 align="center">Hi, I'm Mia 👋</h1>
 
 ###
 
